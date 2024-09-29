@@ -26,3 +26,6 @@ Generator CV to proste, przyjazne dla użytkownika narzędzie zaprojektowane, ab
     <li>Min SDK: 21 (Android 5.0)</li>
     <li>Gradle 7.0 lub nowszy</li>
 </ul>
+<h2>Kontakt</h2>
+Jeśli masz pytania lub sugestie, możesz się ze mną skontaktować przez e-mail: hasambuli@gwinea.ru lub otworzyć issue w repozytorium.
+
