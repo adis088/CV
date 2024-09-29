@@ -1,14 +1,11 @@
-Generator CV (CV Generator)
+CV Generator
+Overview
+The CV Generator is a simple, user-friendly tool designed to help users create professional and customized resumes (CVs) effortlessly. This project allows users to input their personal data, job history, education, skills, and more, and automatically generates a clean, well-structured CV in PDF or other formats.
 
-Przegląd
-Generator CV to proste, przyjazne dla użytkownika narzędzie zaprojektowane, aby pomóc użytkownikom w tworzeniu profesjonalnych i dostosowanych życiorysów (CV) bez wysiłku. Projekt ten umożliwia użytkownikom wprowadzanie danych osobowych, historii zatrudnienia, wykształcenia, umiejętności i innych informacji, a następnie automatycznie generuje czyste, dobrze zorganizowane CV w formacie PDF lub innym.
-
-Funkcje
-Konfigurowalne szablony: Możliwość wyboru jednego z gotowych szablonów CV.
-Wprowadzanie danych przez użytkownika: Łatwe wypełnianie pól z danymi osobowymi, doświadczeniem zawodowym, wykształceniem i umiejętnościami.
-Opcje eksportu: Możliwość eksportu CV w formacie PDF lub HTML.
-Łatwość obsługi: Prosty interfejs użytkownika, który prowadzi użytkownika krok po kroku przez proces tworzenia CV.
-Responsywny design: Działa na różnych urządzeniach - komputerach stacjonarnych, tabletach i telefonach komórkowych.
-Obsługa wielu języków: Generowanie CV w wielu językach.
-
-Przetłumaczono z DeepL.com (wersja darmowa)
+Features
+Customizable Templates: Choose from various pre-designed resume templates.
+User Data Input: Easily fill out fields for personal details, work experience, education, and skills.
+Export Options: Export your CV as a PDF or HTML.
+Easy to Use: Simple UI that guides users step by step through the resume-building process.
+Responsive Design: Works across different devices – desktops, tablets, and mobile phones.
+Multilingual Support: Generate CVs in multiple languages.
