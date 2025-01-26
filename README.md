@@ -1,7 +1,7 @@
 <h1>Generator CV </h1>
 
 Przegląd
-Generator CV to proste, przyjazne dla użytkownika narzędzie zaprojektowane, aby pomóc użytkownikom w tworzeniu profesjonalnych i dostosowanych życiorysów (CV) bez wysiłku. Projekt ten umożliwia użytkownikom wprowadzanie danych osobowych, historii zatrudnienia, wykształcenia, umiejętności i innych informacji, a następnie automatycznie generuje czyste, dobrze zorganizowane CV w formacie PDF lub innym.
+Generator CV to proste, przyjazne dla użytkownika narzędzie zaprojektowane, aby pomóc użytkownikom w tworzeniu profesjonalnych i dostosowanych życiorysów (CV) bez wysiłku. Projekt ten umożliwia użytkownikom wprowadzanie danych osobowych, historii zatrudnienia, wykształcenia, umiejętności,celu i innych informacji, a następnie automatycznie generuje czyste, dobrze zorganizowane CV w formacie PDF lub innym.
 
 <h2>Funkcje</h2>
 <b><p>Konfigurowalne szablony:</b> Możliwość wyboru jednego z gotowych szablonów CV.</p>
