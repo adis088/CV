@@ -4,7 +4,7 @@ Przegląd
 Generator CV to proste, przyjazne dla użytkownika narzędzie zaprojektowane, aby pomóc użytkownikom w tworzeniu profesjonalnych i dostosowanych życiorysów (CV) bez wysiłku. Projekt ten umożliwia użytkownikom wprowadzanie danych osobowych, historii zatrudnienia, wykształcenia, umiejętności,celu i innych informacji, a następnie automatycznie generuje czyste, dobrze zorganizowane CV w formacie PDF lub innym.
 
 <h2>Funkcje</h2>
-<b><p>Konfigurowalne szablony:</b> Możliwość wyboru jednego z gotowych szablonów CV.</p>
+<b><p>Konfigurowalne szablony:</b> Możliwość wyboru jednego z wielu gotowych szablonów CV.</p>
 <b><p>Wprowadzanie danych przez użytkownika:</b> Łatwe wypełnianie pól z danymi osobowymi, doświadczeniem zawodowym, wykształceniem i umiejętnościami.</p>
 <b><p>Eksport do PDF:</b> Możliwość eksportu gotowego CV do formatu PDF bezpośrednio z aplikacji.</p>
 <b><p>Łatwość obsługi: </b>Prosty interfejs użytkownika, który prowadzi użytkownika krok po kroku przez proces tworzenia CV.</p>
